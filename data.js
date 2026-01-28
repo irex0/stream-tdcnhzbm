@@ -3,7 +3,7 @@ window.videoData = [
     "id": "e3a15dfe-3bc7-411e-a0b9-ea15bac50768",
     "title": "SVID 20260125 230736 1",
     "description": "",
-    "date": "2026-01-28T04:58:13.818Z",
+    "date": "2026-01-28T05:02:01.696Z",
     "playlist": "videos/e3a15dfe-3bc7-411e-a0b9-ea15bac50768/playlist.m3u8",
     "thumbnail": "videos/e3a15dfe-3bc7-411e-a0b9-ea15bac50768/thumb.jpg"
   },
